@@ -1,4 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
 body{
     background-color: #f1f1f1;
     color: #090808 ;
+
+/*    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Unbounded', cursive;*/
+
+    font: normal 16px 'Unbounded', cursive;
+
+    /*font-family: Arial, Helvetica, sans-serif;*/
+}
+.avatar{
+    width: 200px;
+    border-radius: 16px;
+    box-shadow: 2px 2px 16px rgba(0, 0 , 0, 0.4);
 }
