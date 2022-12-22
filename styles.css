@@ -14,5 +14,16 @@ body{
 .avatar{
     width: 200px;
     border-radius: 16px;
-    box-shadow: 2px 2px 16px rgba(0, 0 , 0, 0.4);
+    box-shadow: 2px 2px 8px rgba(0, 0 , 0, 0.4);
+}
+.info p{
+    color: rgb(123, 123, 123);
+    margin: 0;
+}
+.container{
+    max-width: 800px;
+    margin: auto;
+}
+.contacts{
+    background-color: bisque;
 }
