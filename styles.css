@@ -11,6 +11,19 @@ body{
 
     /*font-family: Arial, Helvetica, sans-serif;*/
 }
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+    color:rgb(123, 1, 123);
+}
+a:visited{
+    color: gray;
+}
 .avatar{
     width: 200px;
     border-radius: 16px;
@@ -24,6 +37,6 @@ body{
     max-width: 800px;
     margin: auto;
 }
-.contacts{
+/*.contacts{
     background-color: bisque;
-}
+}*/
